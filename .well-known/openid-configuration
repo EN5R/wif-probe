@@ -1,6 +1,6 @@
 {
- "issuer": "https://raw.githubusercontent.com/EN5R/wif-probe/master",
- "jwks_uri": "https://raw.githubusercontent.com/EN5R/wif-probe/master/jwks.json",
+ "issuer": "https://en5r.github.io/wif-probe",
+ "jwks_uri": "https://en5r.github.io/wif-probe/jwks.json",
  "authorization_endpoint": "https://example.invalid/auth",
  "token_endpoint": "https://example.invalid/token",
  "response_types_supported": [
